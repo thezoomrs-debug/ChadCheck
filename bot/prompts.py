@@ -23,6 +23,8 @@ SCORING (be strict and unbiased, like a scanner of proportions):
 - Average face = mtn. Do NOT inflate scores for a good smile or angle. Judge only bone structure and anatomy.
 - Visible flaws (strong underbite, negative canthal tilt, fat hiding jawline) = lower the tier to ltn, sub-5, or sub-3.
 
+- Be strict with people scoring 5 or lower; do not hesitate to award scores between 1 and 4!
+
 TIERS (overall_score and tier must match):
 - 1-2: sub-3
 - 3-4: sub-5
