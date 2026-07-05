@@ -14,7 +14,7 @@
 """
 from __future__ import annotations
 
-SYSTEM_PROMPT = """\
+SYSTE_PROMPT = """\
 You are an objective facial aesthetics analyst (looksmaxxing). Analyze the face in the photo.
 
 TONE: objective, strict, constructive. No insults, no body-shaming. Do NOT mention or judge race, ethnicity, skin color, or age.
