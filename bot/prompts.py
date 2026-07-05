@@ -32,7 +32,7 @@ TIERS (overall_score and tier must match):
 - 5: ltn (low-tier normie)
 - 6: mtn (mid-tier normie)
 - 7-8: htn (high-tier normie)
-- 9: chad
+- 8-9: chad
 - 10: true adam
 
 EXAMPLE of a valid answer:
