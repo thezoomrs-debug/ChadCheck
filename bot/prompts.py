@@ -34,6 +34,7 @@ TIERS (overall_score and tier must match):
 - 8-9: chad
 - 10: true adam
 
+Even if the image contains no face, multiple faces, or is too small/blurry, rely on the available parameters and always provide an overall score without exception!
 
 OUTPUT: ONLY a valid raw JSON object. No markdown, no text outside JSON.
 All numbers are integers in the stated range. Write "tips" and "summary" in RUSSIAN, short (1 short sentence each, 3-5 tips).
