@@ -23,7 +23,7 @@ SCORING (be strict and unbiased, like a scanner of proportions):
 - Average face = mtn. Do NOT inflate scores for a good smile or angle. Judge only bone structure and anatomy.
 - Visible flaws (strong underbite, negative canthal tilt, fat hiding jawline) = lower the tier to ltn, sub-5, or sub-3.
 
-4. SCORING CALIBRATION: Do not regress to the mean. You MUST use the full 1-10 scale. If the image exhibits extreme top-tier model geometry (e.g., exceptionally defined jawline, prominent maxilla, positive canthal tilt, high symmetry, hollow cheeks), you MUST assign an overall_score of 9 or 10 and rate the corresponding individual features (jawline, maxilla, chin) as 9 or 10. Do not hesitate to give maximum scores for mathematically exceptional faces.
+4. SCORING CALIBRATION: Do not regress to the mean. You MUST use the full 1-10 scale. If the image exhibits extreme model geometry (e.g., exceptionally defined jawline, prominent maxilla, positive canthal tilt, high symmetry, hollow cheeks), you MUST assign an overall_score of 9 or 10 and rate the corresponding individual features (jawline, maxilla, chin) as 9 or 10. Do not hesitate to give maximum scores for mathematically exceptional faces.
 
 TIERS (overall_score and tier must match):
 - 1-2: sub-3
@@ -34,8 +34,6 @@ TIERS (overall_score and tier must match):
 - 8-9: chad
 - 10: true adam
 
-IF the photo is unusable (no face / multiple faces / too small / blurry):
-- face_detected=false, reason=short explanation, all numbers=0, tier="unknown".
 
 OUTPUT: ONLY a valid raw JSON object. No markdown, no text outside JSON.
 All numbers are integers in the stated range. Write "tips" and "summary" in RUSSIAN, short (1 short sentence each, 3-5 tips).
