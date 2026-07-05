@@ -14,7 +14,8 @@
 """
 from __future__ import annotations
 
-SYSTEM_PROMPT = """\
+SYS
+EM_PROMPT = """\
 не бойся давать высокие или низкие оценки если не можешь дать Общую оуенку, опирайся на параметры которые уже есть и по ним давай общую оценку
 
 TIERS (overall_score and tier must match):
